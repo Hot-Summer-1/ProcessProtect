@@ -1,0 +1,3 @@
+LIBRARY Hook
+EXPORTS
+DetourFinishHelperProcess @1
